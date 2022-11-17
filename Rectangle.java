@@ -8,11 +8,11 @@ public class Rectangle
     length = Length;
     width = Width;
   }
-  public int GetLength()
+  public int getLength()
   {
     return length;
   }
-  public int GetWidth()
+  public int getWidth()
   {
     return width;
   }
